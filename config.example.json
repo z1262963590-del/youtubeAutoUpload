@@ -1,0 +1,10 @@
+{
+  "video_directory": "./videos",
+  "schedule_times": ["09:00", "13:30", "20:00"],
+  "timezone": "Asia/Shanghai",
+  "privacy_status": "private",
+  "category_id": "22",
+  "default_title_prefix": "Auto Upload",
+  "default_description": "Uploaded by youtubeAutoUpload",
+  "state_file": "./upload_state.json"
+}
