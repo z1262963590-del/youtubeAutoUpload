@@ -1,0 +1,13 @@
+{
+  "video_directory": "./x_videos",
+  "schedule_times": ["09:00", "13:30", "20:00"],
+  "timezone": "Asia/Shanghai",
+  "state_file": "./x_upload_state.json",
+  "x_api_key": "YOUR_X_API_KEY",
+  "x_api_secret": "YOUR_X_API_SECRET",
+  "x_access_token": "YOUR_X_ACCESS_TOKEN",
+  "x_access_token_secret": "YOUR_X_ACCESS_TOKEN_SECRET",
+  "post_text_template": "{stem} #auto #upload {timestamp}",
+  "media_category": "tweet_video",
+  "upload_chunk_size": 4194304
+}
